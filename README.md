@@ -2,6 +2,8 @@
 
 > *"Her dakika, karanlık dünyanı genişletir."*
 
+#Canlı Demo Linki:
+https://ai-buildathon-grimoire.vercel.app/
 ---
 
 ## Problem
