@@ -2,7 +2,7 @@
 
 > *"Her dakika, karanlık dünyanı genişletir."*
 
-#Canlı Demo Linki:
+Canlı Demo Linki:
 https://ai-buildathon-grimoire.vercel.app/
 ---
 
