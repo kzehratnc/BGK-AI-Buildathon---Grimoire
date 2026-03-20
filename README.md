@@ -4,6 +4,9 @@
 
 Canlı Demo Linki:
 https://ai-buildathon-grimoire.vercel.app/
+
+Demo Video Linki:
+https://www.loom.com/share/0221c648816c41a1bb34544cceb5bc0f
 ---
 
 ## Problem
